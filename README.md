@@ -27,7 +27,7 @@ Este site é um reflexo do meu momento atual como estudante de **Engenharia de S
 ## 🔗 Link do Site
 
 📎 Acesse o site publicado via GitHub Pages:  
-**[danilyyl.github.io/portfolio-danielly](https://danilyyl.github.io/portfolio-danielly)**
+**[danilyyl.github.io/portfolio-danielly](https://danilyyl.github.io/Meu-Portfolio/)**
 
 ---
 
