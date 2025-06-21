@@ -43,8 +43,7 @@ Sou uma entusiasta da tecnologia, dedicada aos estudos de **desenvolvimento web*
 
 - ✉️ Email: **[danielly.garcia2005@gmail.com]**
 - 💼 LinkedIn: [linkedin.com/in/danielly-garcia-4b00962b6](https://www.linkedin.com/in/danielly-garcia-4b00962b6/)
-- 📝 Medium: [medium.com/@danilyyl](https://medium.com/@danilyyl)
-- 🐙 GitHub: [github.com/danilyyl](https://github.com/danilyyl)
+- 📝 Medium: [medium.com/@danilyyl](https://medium.com/@danielly.garcia2005)
 
 ---
 
